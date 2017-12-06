@@ -44,8 +44,9 @@ h2{
 
 h6{
     font-family: 'Georgia', Times, Times New Roman, serif;
+    padding-left: 20px;
     color: #4aaaa5;
-    padding-left: 35px;
+    font-size: 24px;
 }
 
 
@@ -77,6 +78,16 @@ h6{
     margin: 10px;
     float: left;
     width: 650px;
+    background-color: #ffffff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#portfolio{
+    margin: 10px;
+    float: left;
+    width: 650px;
+    height: 650px;
     background-color: #ffffff;
     padding-bottom: 20px;
     padding-top: 20px;
@@ -134,3 +145,8 @@ img{
   background-color: yellow;
 }
 
+#folio {
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+}
